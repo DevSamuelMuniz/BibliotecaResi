@@ -22,7 +22,7 @@ Este é um projeto de gerenciamento de biblioteca desenvolvido em C# utilizando 
 
 - .NET Core SDK 3.1 ou superior
 
-##Equipe
+## Equipe
 
 - **ABYNADARK VANUZA DE SOUZA**
 - **CAMILE STEFANY PEREIRA DA SILVA**
