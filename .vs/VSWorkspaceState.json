@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Biblioteca",
+    "\\Biblioteca\\Controllers",
+    "\\Biblioteca\\DTOs",
+    "\\Biblioteca\\DTOs\\Request",
+    "\\Biblioteca\\DTOs\\Response",
+    "\\Biblioteca\\Interfaces",
+    "\\Biblioteca\\Models",
+    "\\Biblioteca\\Profiles",
+    "\\Biblioteca\\Repositories"
+  ],
+  "SelectedNode": "\\Biblioteca\\Models\\Multa.cs",
+  "PreviewInSolutionExplorer": false
+}
