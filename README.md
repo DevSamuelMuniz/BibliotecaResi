@@ -21,3 +21,12 @@ Este é um projeto de gerenciamento de biblioteca desenvolvido em C# utilizando 
 ## Requisitos
 
 - .NET Core SDK 3.1 ou superior
+
+##Equipe
+
+- **ABYNADARK VANUZA DE SOUZA**
+- **CAMILE STEFANY PEREIRA DA SILVA**
+- **LUÍS GABRIEL CORREIA DO NASCIMENTO**
+- **VINICIUS FERNANDO SILVA DE SOUZA** 
+- **EDUARDO HENRIQUE DE SENNA COSTA FILHO**
+- **SAMUEL MUNIZ DA SILVA**
